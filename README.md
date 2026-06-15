@@ -3,7 +3,7 @@
 Este repositorio contiene acceso a 
 
 - **[Fundamentos de programacion](Fundamentos_en_C.md)**: sintaxis, lógica, estructuras básicas y conceptos clave.
-- **[Ejercicios prácticos](/C/Ejercicios/Ejercicios_Practicos_lista.md)**: pequeños retos y soluciones para reforzar lo aprendido.
+- **[Ejercicios prácticos](Ejercicios/Ejercicios_Practicos_lista.md)**: pequeños retos y soluciones para reforzar lo aprendido.
 - **[Proyectos](#mis-proyectos-de-c)**: aplicaciones y mini sistemas que muestran como resuelvo problematicas del mundo real.
 
 ## Mis proyectos de C:
