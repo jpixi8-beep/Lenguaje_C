@@ -1,0 +1,22 @@
+# Object files
+*.o
+*.obj
+*.exe
+*.out
+
+# Build output
+build/
+bin/
+Debug/
+Release/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
